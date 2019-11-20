@@ -1,7 +1,7 @@
-describe ("whatCanIDrink", function() {
-    describe("age function", function(){
-        it("will return whiskey", function(){
-            expect(age()) .toBe("Whiskey");
+describe("whatICanDrink", function() {
+    describe("What drink you should have function", function(){
+        it("Should return your drink", function(){
+            expect(age()) .toBe("Drink");
         })
     })
 })

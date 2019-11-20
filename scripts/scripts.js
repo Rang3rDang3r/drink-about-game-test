@@ -1,3 +1,3 @@
 function age() {
-    return "Whiskey";
+    return "Drink";
 }
